@@ -1,0 +1,8 @@
+{
+    "master_url": "104.154.179.81",
+    "batch_size": 16,
+    "mode": "async",
+    "port": 5000,
+    "model_config": {},
+    "opt_config": {}
+}
