@@ -2,7 +2,6 @@ from torchvision.models import resnet18
 from torchvision.datasets import CIFAR10
 from torchvision import transforms
 from torch.utils.data import Dataset, DataLoader
-from google.cloud import storage
 import numpy as np
 import pickle
 import os
